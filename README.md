@@ -5,8 +5,6 @@
 
 ---
 
-![Production Electric Atlas and Spot](./public/images/fleet-atlas-spot.jpg)
-
 ## What Is Inside This Website?
 An interactive 3D WebGL robotics simulation portal and 34-year engineering encyclopedia (1992 – 2026) built with **Three.js**:
 
