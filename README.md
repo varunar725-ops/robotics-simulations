@@ -1,9 +1,6 @@
 # Boston Dynamics — Interactive 3D Robotics Simulation & Innovations Archive
 
 ### 👉 **[🚀 CLICK HERE TO LAUNCH THE LIVE 3D WEBSITE](https://varunar725-ops.github.io/robotics-simulations/)**
-*(Note to owner: click the ✏️ pencil icon on GitHub to replace `YOUR-USERNAME` and `YOUR-REPO-NAME` above with your actual GitHub Pages or Netlify/Cloudflare link!)*
-
----
 
 ## What Is Inside This Website?
 An interactive 3D WebGL robotics simulation portal and 34-year engineering encyclopedia (1992 – 2026) built with **Three.js**:
